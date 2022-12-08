@@ -1,5 +1,6 @@
 {
   "name": "map-maker",
+  "homepage": "https://avaavarai.github.io/CS446_MapMaker/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
