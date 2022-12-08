@@ -59,7 +59,7 @@
 
 
     top: 45%;
-    left: 25%;
+    left: 26%;
     right: 25%;
 
 
@@ -73,6 +73,7 @@
 .join-button:focus {
   box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
 }
+
 
 .host-button, .join-button {
     margin-left: 10%;
@@ -108,7 +109,7 @@
     -webkit-user-select: none;
     touch-action: manipulation;
 
-    top: 15%;
+    top: 25%;
     left: 25%;
     right: 25%
   }
