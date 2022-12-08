@@ -58,7 +58,7 @@
  
 
 
-    top: 58%;
+    top: 45%;
     left: 26%;
     right: 25%;
 
@@ -142,7 +142,7 @@
     border-bottom: 0.3rem solid transparent;
     transition: all 0.3s;
     position: fixed;
-    top: 63%;
+    top: 58%;
     left: 36%;
     right: 36%;
   }
